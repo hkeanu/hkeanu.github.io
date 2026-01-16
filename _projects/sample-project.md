@@ -10,6 +10,7 @@ img: assets/img/projects/confidential-cover.png
 ---
 
 NDA-safe summary:
+
 - What it does
 - Your role
 - Tools used

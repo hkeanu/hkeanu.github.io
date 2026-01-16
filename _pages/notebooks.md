@@ -7,6 +7,7 @@ nav_order: 4
 ---
 
 {% assign notebooks = site.notebooks | sort: "date" | reverse %}
+
 <div class="cards">
   {% for nb in notebooks %}
     <a class="card" href="{{ nb.external_url }}" target="_blank" rel="noopener">

@@ -58,6 +58,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     <p class="hero-meta">
       Work samples are NDA-safe summaries. Detailed code available on request.
     </p>
+
   </div>
 </div>
 
@@ -78,4 +79,3 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
   <li><strong>Notebooks</strong> – Jupyter notebooks and experiments</li>
   <li><strong>Certifications</strong> – Coursera, Udemy, and professional credentials</li>
 </ul>
-
