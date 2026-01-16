@@ -1,12 +1,12 @@
 ---
+layout: page
 title: Financial Statement Parser (NDA-safe summary)
 description: Automated extraction of tables/notes from Word files with validation outputs.
-importance: 1
-group: work
-featured: true
+img: assets/img/projects/confidential-cover.png
+importance: 4
+category: work
 tags: [python, docx, automation]
 confidential: true
-img: assets/img/projects/confidential-cover.png
 ---
 
 NDA-safe summary:
