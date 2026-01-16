@@ -23,3 +23,70 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+
+/* ===== Homepage Hero ===== */
+
+.hero {
+  margin: 1.5rem 0 2.5rem;
+}
+
+.hero-kicker {
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  font-size: .8rem;
+  opacity: .7;
+  margin-bottom: .6rem;
+}
+
+.hero-title {
+  font-size: clamp(2.2rem, 4vw, 3.2rem);
+  line-height: 1.05;
+  margin: 0 0 .8rem;
+}
+
+.hero-accent {
+  text-decoration: underline;
+  text-underline-offset: .18em;
+}
+
+.hero-subtitle {
+  max-width: 60ch;
+  font-size: 1.05rem;
+  line-height: 1.65;
+  opacity: .9;
+  margin-bottom: 1.2rem;
+}
+
+.hero-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .75rem;
+  margin-bottom: .6rem;
+}
+
+.btn {
+  padding: .65rem 1rem;
+  border-radius: 14px;
+  border: 1px solid rgba(128,128,128,.35);
+  text-decoration: none !important;
+  font-weight: 600;
+  transition: transform .15s ease;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+}
+
+.btn-primary {
+  border-color: transparent;
+}
+
+.btn-ghost {
+  background: transparent;
+}
+
+.hero-meta {
+  font-size: .9rem;
+  opacity: .7;
+}
